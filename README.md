@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fesimaxu
-- 👀 I’m interested in python, data science, clouding and everything automation of data
-- 🌱 I’m currently learning python and data science
-- 💞️ I’m looking to collaborate on python and data analysis
+- 👀 I’m interested in backend and blockchain engineering
+- 🌱 I’m currently learning backend and blockchain engineering
+- 💞️ I’m looking to collaborate on anything backend on web2 and web3
 - 📫 How to reach me drop a messagge
 - I'm interested in machine learning
 <!---
