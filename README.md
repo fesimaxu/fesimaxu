@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Igwe Uchenna Felix
 - 👀 I’m a backend and smart contract developer
-- 🌱 I write HTML5, CSS, JavaScript, TypeScript, PHP and Solidity
+- 🌱 I write JavaScript, TypeScript, Solidity, Node
 - 💞️ I'm a team player and a keen to learn new things always.
 - 📫 How to reach me drop a messagge
 
