@@ -47,8 +47,12 @@
 ![Cloudfare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu OS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-<!-- ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+Building on Chain
+![Ethereum](https://img.shields.io/badge/Ethereum-F38020?style=for-the-badge&logo=ethereum&logoColor=white)
+![POLYGON](https://img.shields.io/badge/Polygon-F38020?style=for-the-badge&logo=polygon&logoColor=white)
+![BITCOIN](https://img.shields.io/badge/Bitcoin-FCC624?style=for-the-badge&logo=bitcoin&logoColor=black)
 ### Work
 
 Portfolio: https://igwefelixuchenna.netlify.app/
