@@ -26,6 +26,7 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![SPRINGBOOT JAVA](https://img.shields.io/badge/Java-AAFF00?style=for-the-badge&logo=laravel&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 
