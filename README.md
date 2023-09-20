@@ -1,6 +1,6 @@
 ## Hello, I'm Uchenna <img src="https://emoji.slack-edge.com/T02HBS55FCG/cool-doge/aa3c8fd9037a0604.gif" width="28" alt="hi">
 
-👋 Hi, I'm a Full Stack Dev . and Blockchain Engineer with 2 years of building experience. 
+👋 Hi, I'm a Full Stack Developer and Blockchain Engineer with 2 years of experience, specializing in backend technology development using Node JS frameworks such as Express JS, Nest JS, and Java framework Springboot. 
 ✨ special talent ✨
 
 :mailbox: Looking for me!
@@ -24,9 +24,10 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![SPRINGBOOT JAVA](https://img.shields.io/badge/Java-AAFF00?style=for-the-badge&logo=laravel&logoColor=white)
+![Nest JS](https://img.shields.io/badge/Nest.js-FF7533?style=for-the-badge&logo=nest.js&logoColor=white)
+![SPRINGBOOT JAVA](https://img.shields.io/badge/Java-AAFF00?style=for-the-badge&logo=java&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 
