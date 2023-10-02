@@ -1,6 +1,6 @@
 ## Hello, I'm Uchenna <img src="https://emoji.slack-edge.com/T02HBS55FCG/cool-doge/aa3c8fd9037a0604.gif" width="28" alt="hi">
 
-👋 Hi, I'm a Full Stack Developer and Blockchain Engineer with 2 years of experience, specializing in backend technology development using Node JS frameworks such as Express JS, Nest JS, and Java framework Springboot. 
+👋 Hi, I'm a Full Stack Developer and Blockchain Engineer with 2 years of experience, specializing in backend technology development using Node JS frameworks such as Express JS, Nest JS, Solidity, and Java framework Springboot. 
 ✨ special talent ✨
 
 :mailbox: Looking for me!
